@@ -1,0 +1,11 @@
+﻿# Generated workbook inspection metadata
+*.inspect.ndjson
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Excel files
+~$*.xlsx
+*.tmp
