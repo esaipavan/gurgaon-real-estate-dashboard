@@ -14,7 +14,7 @@ How can Gurgaon real estate listing data be summarized so that a viewer can quic
 
 ## Key Insights
 
-- Sale inventory dominates the dataset, with 9,940 sale listings represented in the dashboard.
+- Sale inventory dominates the dataset, with 9,940 sale listings represented in that dashboard.
 - The median sale listing price is approximately INR 2.28 crore.
 - The average sale price per sq.ft. is approximately INR 33,180.
 - The median monthly rent is INR 60,000.
