@@ -1,6 +1,11 @@
 ﻿# Gurgaon Real Estate Listings Dashboard
 
-Portfolio-ready Excel dashboard for exploring Gurgaon real estate listing trends across sale and rental inventory.
+> Portfolio-ready Excel dashboard for exploring Gurgaon real estate listing trends across sale and rental inventory.
+
+<p>
+  <img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+</p>
 
 ![Dashboard preview](dashboard_preview.png)
 
@@ -57,3 +62,13 @@ Download `gurgaon_real_estate_dashboard.xlsx` and open it in Microsoft Excel. St
 ## Notes
 
 Prices are listing or asking prices from the source dataset, not confirmed closed transaction prices. Sale prices and monthly rents are analyzed separately because they use different units.
+
+---
+
+## 📜 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+## 👤 Author
+
+**Sai Pavan Etikala** · [GitHub](https://github.com/esaipavan) · [LinkedIn](https://www.linkedin.com/in/etikalasaipavan)
